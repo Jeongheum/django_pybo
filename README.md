@@ -1,4 +1,4 @@
-# django to build a bulletic board, called "pybo" <br><br>
+# django to build a bulletin board, called "pybo" <br>
 
 To run codes in local host (127.0.0.1) , enter the command below in CLI,   
 python manage.py runserver --settings=config.settings.local   # on your local host computer  
