@@ -7,5 +7,5 @@ or
 <b> python manage.py runserver --settings=config.settings.prod </b> # on a cloud server such as AWS  
 
 you may need to make a database first  
-python manage.py makemigrations  
-python manage.py migrate  
+<b> python manage.py makemigrations </b>  
+<b> python manage.py migrate </b>
