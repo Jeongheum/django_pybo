@@ -45,8 +45,7 @@
             </td>
             <td> <!-- 추천수 -->
                 {% if question.voter.all.count > 0 %}
-                <!-- <span class="badge badge-warning px-2 py-1">{{ question.voter.all.count }}</span> -->
-                <span class="badge rounded-pill bg-success"> {{ question.voter.all.count }} </span>
+                <span class="badge bg-warning px-2 py-1">{{ question.voter.all.count }}</span>
                 {% endif %}
             </td>
             <td class="text-start">
