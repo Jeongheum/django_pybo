@@ -14,7 +14,8 @@ Then, run server
 <br>
 
 <h4> Option #2 </h4>  
-To run this code on your cloud server, use the following  
+To run this code on your cloud server, use the following   
+
 <b> python manage.py runserver --settings=config.settings.prod </b> # on a cloud server such as AWS  
 
 <br>
