@@ -11,9 +11,11 @@ Then, the following to create database files
 Then, run server
 <b> python manage.py runserver </b> 
 
+<br>
 
 #2
 To run this code on your cloud server, use the following  
 <b> python manage.py runserver --settings=config.settings.prod </b> # on a cloud server such as AWS  
 
-
+<br>
+<img src="./sample.png"> Bulletin Board </img>
